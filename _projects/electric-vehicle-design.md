@@ -14,4 +14,8 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. S
 
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
+<script type="text/javascript" src="[https://files.coinmarketcap.com/static/widget/currency.js](https://files.coinmarketcap.com/static/widget/currency.js "https://files.coinmarketcap.com/static/widget/currency.js")"></script>
+
+<div class="coinmarketcap-currency-widget" data-currencyid="512" data-base="USD"  data-secondary="BTC"></div>
+
 Dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
