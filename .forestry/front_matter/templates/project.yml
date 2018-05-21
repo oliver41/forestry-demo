@@ -21,11 +21,6 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- name: slug
-  label: Slug
-  type: text
-  hidden: false
-  default: ''
 - type: textarea
   name: coin_name
   label: Coin Name
@@ -33,3 +28,8 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
