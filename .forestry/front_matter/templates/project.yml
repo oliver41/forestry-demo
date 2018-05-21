@@ -26,3 +26,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: textarea
+  name: coin_name
+  label: Coin Name
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
